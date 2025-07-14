@@ -53,13 +53,7 @@ Two Tableau dashboards were created for visual storytelling:
 ## 📊 Key Results & Insights
 
 - **Overall churn rate**: **18.0%**
-- **Churn rate for Premium Plan users**: **36.4%**
-- Users with **Watchlist Size < 5** had a **churn rate of 45.1%**,  
-  while those with ≥15 had just **11.7% churn**
-- **Users raising >3 support tickets/month** → **62.3% churn**
-- **Average Monthly Charges**:  
-  - Churned users → **₹96.7**  
-  - Retained users → **₹148.3**
+- **Users on the Basic plan have the highest churn count (55) and a churn rate of 11.55%**
 
 ---
 
