@@ -1,16 +1,16 @@
-# 📉 Customer Retention and Churn Analysis
+# Customer Retention and Churn Analysis
 
 This project focuses on analyzing customer churn behavior for a subscription-based digital platform. The goal is to uncover insights that can help reduce churn and improve customer retention through data-driven strategies.
 
 ---
 
-## 📌 Objective
+## Objective
 
 To identify key drivers of customer churn, segment user behavior, and create actionable insights using **Python (Pandas)**, **SQL**, and **Tableau**.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - MySQL
@@ -19,7 +19,7 @@ To identify key drivers of customer churn, segment user behavior, and create act
 
 ---
 
-## 📊 Key Analyses Performed
+## Key Analyses Performed
 
 - Data Cleaning & Preprocessing
 - Retention Rate Calculation
@@ -32,32 +32,32 @@ To identify key drivers of customer churn, segment user behavior, and create act
 
 ---
 
-## 📈 Tableau Dashboards
+## Tableau Dashboards
 
 Two Tableau dashboards were created for visual storytelling:
 
-### 1️⃣ Customer Profile & Preferences Overview
+### Customer Profile & Preferences Overview
 - Churn Rate by Subscription Type, Payment Method, Paperless Billing
 - User Preferences: Genre, Watchlist Size, User Rating
 - Filters for Subscription Type and Genre
 
-### 2️⃣ Behavior & Support Insights
+###  Behavior & Support Insights
 - Churn Rate vs. Viewing Hours, Downloads, and Average Viewing Duration
 - Impact of Multi-Device Access and Parental Control
 - Support Tickets and Their Role in Churn
 
-> 📍 Tableau workbook is included in the `tableau/` folder.
+>- Tableau workbook is included in the `tableau/` folder.
 
 ---
 
-## 📊 Key Results & Insights
+## Key Results & Insights
 
 - **Overall churn rate**: **18.0%**
 - **Users on the Basic plan have the highest churn count (55) and a churn rate of 11.55%**
 
 ---
 
-## 🤖 Classification Model Performance (Logistic Regression)
+## Classification Model Performance (Logistic Regression)
 
 | Metric         | Class 0 (Retained) | Class 1 (Churned) |
 |----------------|--------------------|--------------------|
@@ -72,7 +72,7 @@ Two Tableau dashboards were created for visual storytelling:
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File / Folder         | Description                                 |
 |-----------------------|---------------------------------------------|
@@ -84,16 +84,16 @@ Two Tableau dashboards were created for visual storytelling:
 
 ---
 
-## 📅 Project Status
+## Project Status
 
-- ✅ Data Cleaning & Pandas Analysis — *Complete*  
-- ✅ SQL Querying & Validation — *Complete*  
-- ✅ Tableau Dashboards — *Completed & Added*  
-- ✅ Churn Prediction Modeling — *Complete*
+-  Data Cleaning & Pandas Analysis — *Complete*  
+-  SQL Querying & Validation — *Complete*  
+-  Tableau Dashboards — *Completed & Added*  
+-  Churn Prediction Modeling — *Complete*
 
 ---
 
-## 🔗 How to Use
+##  How to Use
 
 1. Clone the repository.
 2. Open `analysis.ipynb` in Jupyter Notebook to explore Pandas analysis.
